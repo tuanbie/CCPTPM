@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CongCuApplication {
-//su LAN DAU
+//lan dau
 	public static void main(String[] args) {
 		SpringApplication.run(CongCuApplication.class, args);
 	}
